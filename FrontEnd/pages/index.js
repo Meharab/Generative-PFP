@@ -138,7 +138,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Punk Aliens 
+          <h1 className={styles.title}>Welcome to Punk Aliens 👽 
             <b className={styles.ens}>{ens ? ens : address}!</b>
           </h1>
           <div className={styles.description}>
