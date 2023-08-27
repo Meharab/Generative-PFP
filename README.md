@@ -1,4 +1,4 @@
-# [WEB LINK](https://generative-pfp.vercel.app/)
+# [Generative PFP dApp](https://generative-pfp.vercel.app/)
 
 ## Requirements 
 install `node` in your system
@@ -41,5 +41,4 @@ There are couple of things that are next for this project e.g.
 etc.
 
 ## Presentation 
-- [Loom](https://www.loom.com/share/53d33bfd7bb446659d810a0ad05d4fc1)
-- [YouTube](https://youtu.be/ys7TiuJOKEU)
+- [YouTube](https://youtu.be/SF_7TehfQSo)
